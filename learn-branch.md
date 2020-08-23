@@ -5,9 +5,6 @@
 这句话是在branch2分支上添加的1。
 这句话是在branch2分支上添加的2。
 在branch3上添加。
-<<<<<<< HEAD
 master
-=======
 branch4。
->>>>>>> branch4
 noff
